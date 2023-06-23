@@ -55,7 +55,7 @@
 <table>
   <tbody>
 		<tr>
-			<td colspan=4>
+			<td colspan=3>
 				<br>
 				<div align="center"><b>원하는 비트 재생 후 저장</b></div>
 				<br>
@@ -78,6 +78,38 @@
 	   			<h4 align="center">
             <img width="131" alt="image" src="https://github.com/JanSound/.github/assets/63959171/5e486034-deaa-4605-bf96-340b132c74bd">
             <br><br>저장 완료
+          </h4>
+      </td>
+		</tr>
+</tbody>
+</table>
+
+<table>
+  <tbody>
+		<tr>
+			<td colspan=3>
+				<br>
+				<div align="center"><b>저장된 비트를 재생 또는 병합</b></div>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td width="40%">
+				<h4 align="center">
+          <img width="131" alt="image" src="https://github.com/JanSound/.github/assets/63959171/8d37d331-0c15-434c-bbe8-e6311297326c">
+          <br><br>저장된 비트 재생 화면
+				</h4>
+			</td>
+			<td width="30%">
+	   			<h4 align="center">
+            <img width="131" alt="image" src="https://github.com/JanSound/.github/assets/63959171/8871c4b8-97f5-4c20-97dc-1282a8479622">
+            <br><br>병합 화면
+          </h4>
+      </td>
+			<td width="30%">
+	   			<h4 align="center">
+            <img width="131" alt="image" src="https://github.com/JanSound/.github/assets/63959171/e5f06a4c-18a1-4bde-9484-ddac8664c311">
+            <br><br>병합 후 화면
           </h4>
       </td>
 		</tr>
