@@ -1,51 +1,20 @@
 # 10Seconds 🎙️
+<img width="80" height="100" src="https://github.com/JanSound/.github/assets/63959171/fb29aeed-570c-40e9-8b5d-82a0b23741f8" />
 
-## How to run (react-native)
-### 1. git clone
-```bash
-git clone https://github.com/JanSound/10Seconds-frontend.git
-```
 
-### 2. install react-native-cli in global
-```bash
-npm install -g react-native-cli
-```
+## 목차
 
-### 3. instsall node modules
-```bash
-npm install
-```
+## 프로젝트 소개
 
-### 4. install ios dependency
-```bash
-cd ios
-pod install
-```
 
-### 5. run emulator
-```bash
-npm run ios
-```
+## 기능 소개
 
-## How to run (server)
-### 1. git clone 
-Repo: https://github.com/JanSound/10Seconds-backend-go
-```
-git clone https://github.com/JanSound/10Seconds-backend-go.git
-```
 
-### 2. run by Go
-```shell
-cd src
-go install
-go run main.go
-```
+## 사용 기술
 
-### 3. run in Docker
-```shell
-docker build -t tenseconds-go .
-docker run -d -p 8001:8001 tenseconds-go
+## Infrastructure
 
-# 이후에는 아래의 스크립트 실행을 통해 배포
-sh scripts/rebuild_and_restart.sh
-```
+## 🧑🏻‍💻 팀원 소개
+| [<img src="https://contrib.rocks/image?repo=rbgksqkr/rbgksqkr" />](https://avatars.githubusercontent.com/u/63959171?s=400&u=bbeb7987d9fd99dd5ae96681aec38bbdf473f9eb&v=4) | <img src="https://contrib.rocks/image?repo=sanghunmoon/web-tutorial" /> | <img src="https://contrib.rocks/image?repo=2JooYeon/2JooYeon" />
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: 
+|                          Front-End                         |                          Back-End                         |                           음성처리 
