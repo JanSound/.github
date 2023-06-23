@@ -12,16 +12,6 @@
 또한, 변환된 비트를 다른 비트 위에 쌓으면서 작곡이 가능합니다. <br/><br/>
 악기를 다루지 못하더라도 목소리만으로 음악 창작이 가능하여 자신의 음악적 아이디어를 표현할 수 있습니다.
 
-<img width="108" alt="image" src="https://github.com/JanSound/.github/assets/63959171/4ad13a52-1648-4a4e-8d40-e2e7e8d1dec7">
-
-<img width="108" alt="image" src="https://github.com/JanSound/.github/assets/63959171/9da69e2d-e72f-477f-b0df-d512cd70a8c2">
-
-<img width="108" alt="image" src="https://github.com/JanSound/.github/assets/63959171/d823db6f-704a-440e-bc6c-341997c0be51">
-
-<img width="108" alt="image" src="https://github.com/JanSound/.github/assets/63959171/d786c21d-008d-4eef-9d75-4ed32d3b2696">
-
-
-
 
 ## User-Flow
 <table>
@@ -56,6 +46,38 @@
 	   			<h4 align="center">
             <img width="108" alt="image" src="https://github.com/JanSound/.github/assets/63959171/d786c21d-008d-4eef-9d75-4ed32d3b2696">
             <br><br>변환 완료 후 화면
+          </h4>
+      </td>
+		</tr>
+</tbody>
+</table>
+
+<table>
+  <tbody>
+		<tr>
+			<td colspan=4>
+				<br>
+				<div align="center"><b>원하는 비트 재생 후 저장</b></div>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td width="33%">
+				<h4 align="center">
+          <img width="131" alt="image" src="https://github.com/JanSound/.github/assets/63959171/71d52e0a-1f16-4be1-af9e-383fe75a115f">
+          <br><br>재생 화면
+				</h4>
+			</td>
+			<td width="33%">
+	   			<h4 align="center">
+            <img width="131" alt="image" src="https://github.com/JanSound/.github/assets/63959171/d417256b-b9c0-42cd-9e1c-34433c11475b">
+            <br><br>구글 OAuth 로그인
+          </h4>
+      </td>
+			<td width="33%">
+	   			<h4 align="center">
+            <img width="131" alt="image" src="https://github.com/JanSound/.github/assets/63959171/5e486034-deaa-4605-bf96-340b132c74bd">
+            <br><br>저장 완료
           </h4>
       </td>
 		</tr>
